@@ -22,7 +22,6 @@ function fish_prompt
   set -l yellow (set_color yellow)
   set -g green (set_color 50FA7B)
   set -l cyan (set_color 00AFFF)
-  set -l red (set_color red)
   set -l white (set_color white)
 
   # Configure __fish_git_prompt
